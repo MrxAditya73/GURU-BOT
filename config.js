@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𒆜░𝐀░D░I░T░Ψ░𝐀░ ░β░Ω░T░𒆜'
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
@@ -65,7 +65,7 @@ global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
+global.rwait = '🐶'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
